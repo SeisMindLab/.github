@@ -1,4 +1,5 @@
 <img width="1920" height="480" alt="github-readme-banner-1920x480" src="https://github.com/user-attachments/assets/68308d14-0627-4082-a17f-b9750f8574fa" />
+
 # Seismind | سيزمايند
 
 **Training on engineering, earth-science, petroleum and AI software.**  
